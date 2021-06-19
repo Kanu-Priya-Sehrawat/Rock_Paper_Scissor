@@ -11,4 +11,4 @@ Playing the game in computer :
 
 You have to enter r for Rock, p for paper and s for scissors. And then enter.
 The computer randomly also generate the same.
-Later the message that you win or lose generated.
+Later, the message that you win or lose is going to be generated.
